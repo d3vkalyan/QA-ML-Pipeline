@@ -1,0 +1,17 @@
+Connect your data
+Learn how to connect your data to Improvado
+The Data sources tab is one of the most important parts of the Improvado reporting platform.
+Data source (platform, statistics provider, integration) is a system that provides marketing data.
+‍Here you can find information about all the available integrations.
+ 
+To open this page click on the Data sources item in the left menu, or use a direct link. Each data source is represented by a tile with a platform logo and name.
+Connecting a data source means that the data provided by this data source will be available for any BI tool or visualisation platform of your choice.
+The credentials you should enter depends on each particular data source:
+	•	Some providers, such as GoogleAds and Facebook, use OAuth. If you are logged in the correct account it will happen in a blink of an eye.
+	•	Some others will just require a login and password, under which you have been authorized in their system.
+	•	Third ones ask for additional data (for example, the API-token for Criteo).
+We provide connection hints for such data sources or even special documentation pages with instructions for the most difficult cases. You can see them below.
+Data sources
+Learn which data sources you can set up in Improvado.
+
+

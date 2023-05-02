@@ -1,0 +1,37 @@
+Extracting data
+
+Learn more about setting up connections in Improvado and how data is extracted
+Improvado Data Dictionary
+Here is an extensive overview of the full list of all common report types by data sources. This list includes such fields as metrics, properties, dimensions, etc. There are also many custom reports we don’t share here. Talk to our experts to get more details on it.
+
+Connect your data
+Learn how to connect your data to Improvado
+
+Data sources
+Learn which data sources you can set up in Improvado
+
+Connected sources
+Learn how you can open the list of your connected sources and their connection settings
+
+Set up data extraction
+Learn how you can set up data extraction in four steps
+
+Custom extraction parameters
+Learn how you can use Improvado custom extraction parameters
+
+Data tables
+Learn how to see all your data tables and their settings
+
+Extraction orders
+Learn how to see the list of your extraction orders and their settings
+
+Extraction templates
+Learn about the advantages of using extraction templates
+
+Improvado logs
+Learn how you can view and upload Improvado logs to a destination
+
+Usage dashboard
+Learn how to visualize and optimize your data pipelines and volumes
+
+

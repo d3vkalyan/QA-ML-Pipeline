@@ -1,0 +1,7 @@
+You can share your report by generating a private link and sending it to your addressee. Select the Sharing Settings option in the Report Settings menu.
+
+The Sharing Settings menu will appear. Click the Share by link button on the right side of the pop-up window.
+
+You will see the link, which you can copy and send to your clients.
+
+The Allow to reveal provider checkbox defines how detailed will be your report for a quest. Tick it to give more information about the data structure or set it blank for giving minimal info.

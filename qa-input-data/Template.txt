@@ -1,0 +1,32 @@
+We offer you to start on creating reports more easily using templates, including carrying over the widgets, tabs, and filters to reports created from one of your templates.
+How can I create my first template?
+The Templates tab itself is identical to Reports, excepting the button at the top right corner - it says Generate template instead of Generate report.
+To create your first template and all subsequent ones, click the orange Generate template button in the upper right corner.
+
+This will bring up the template creation menu, which is similar to report creation one.
+By default it contains two fields:
+	•	Template name
+	•	Template access
+Type the name of a new template (this is the only field which is strictly required). Website/app/page/client as the prompt says, can serve as the name of the template, but do not limit the list of possible names.
+The second line allows you to manage template access:
+	•	Full access templates are available for the whole team
+	•	Custom access template at the beginning will be available only for you and you will be able to set up user permissions later
+
+By clicking the Create template button, you immediately create a template and go to its page.
+The interface of this page is almost completely analogous to the report page interface, but it doesn’t load actual data or provide sharing:
+	•	You can not share your template by private link, or create a PDF-file with your template
+	•	In addition, you can not visualize template in third-party visualization tools (e.g. Tableau, Looker, etc.), because template only forms the structure of the future reports
+
+All other report options are available:
+	•	Just like with a regular report, you can create new tabs or clone already created one
+	•	Just like with a regular report, you can add widgets
+IMPORTANT: modifying templates will affect only new reports without changing already existing ones.
+How can I use a template?
+You can use the template for two purposes:
+	•	To create a report
+	•	To create another template
+In the report creation menu (or the template creation one, as far as they are similar) you can select a template needed with the corresponding option, appears if you have created at least one template.
+Click the left mouse button on the Templates line in that dialog and choose a template from the list expanded.
+
+The report or template created in this way will use the same widgets, rules and settings, it will not be customized again from scratch each time.
+

@@ -1,0 +1,32 @@
+Where to Find Your Connected Sources
+The connection provides access to a specific data source according to your credentials. To see all your connected sources select the Connections item from the left menu.
+
+If you want to create a new connection, click the Make a new connection button in the upper right corner of the screen.
+Use the search field to find the necessary connection by the data source name. Also, you can sort the data ascending or descending in every column except Status and Actions.
+The Connected Source list contains eight columns. Let's look at each of them in more detail.
+Data Source
+This column shows the provider name for which you created this connection. Click it to see the configuration of this exact connection
+Business Account
+A business account is an email or login associated with available accounts for the data source.
+Status
+This column shows business account credentials validity. It has two states: 
+	•	Active means that you can access the data source by these credentials
+	•	Error warns that credentials are not valid
+You can see the issue details by clicking the "plus" icon at the beginning of the line.
+
+Account Status
+	•	Loading accounts - authorization has not been completed yet
+	•	No accounts - authorization has been completed, but there are no accounts yet
+	•	N accounts - n accounts are connected, everything is ready for data extraction
+	•	Error - anything is wrong with your accounts
+Business Account ID
+This ID is used to identify which credentials were used when connecting if you have multiple accounts with the same name
+Created
+Нere you can see when the connection was created.
+Last Authorization
+This column shows the last authorization date of the connection. It will be empty if the connection has not been authorized yet.
+Actions
+The set of available actions depends on connection status.
+	•	You can set up data extraction only for an active connection with at least one connected account.
+	•	If you have some issues with business account credentials, you can reconnect it.
+Also, you can delete a connection using the "trash bin" icon at the end of each line. You will remove our reference to your source but will not delete any data from your source.

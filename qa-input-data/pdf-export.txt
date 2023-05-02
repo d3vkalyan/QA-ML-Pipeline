@@ -1,0 +1,40 @@
+You can export your report as a PDF file in two ways:
+	•	by clicking the “Export to PDF” at the top right corner
+	•	by selecting the “Schedule export to PDF” item in the “Report settings” menu.
+How to export your report as a PDF file by clicking the“Export to PDF”
+You can choose, would you prefer to turn into PDF the whole report with all tabs created or select a tab needed.
+
+Press the variant you choose, and the PDF generation will begin.
+By default, this PDF includes only report data, but you have an option to add some text, image or even another PDF as a header. Let’s try it an example of a company logo. That is the thing you will definitely need when sending your PDF reports somewhere else.
+To add a company logo to report PDF press tab “Report Settings” on the top right of the report web-page and select “Edit PDF header” item in the pop-up menu.
+
+Press the “Add widgets” button on the top right and select “Image upload” option in following menu.
+
+Drag & Drop file with your logo to the highlighted area or browse for it and press “Apply”.
+
+Click cogwheel icon in the File upload widget top right corner to edit uploaded image if needed. You can add or remove captions, resize your image, select placement (on the top or the bottom of the page), return to widget setup or delete this image at all.
+
+Return to your report with “back to report” button on the left or create a PDF with “Export to PDF” at the top right corner. Anyway, now “export to PDF” will automatically add selected image on every page of resulting PDF file.
+How to export your report as a PDF file by clicking the “Schedule export to PDF”
+You can export your report as a PDF file and start sending newer versions of this file to a number of clients every day, week or month.
+To do it click “Report settings” at the top right corner. This will open a dropdown menu:
+
+Select “Schedule export to PDF” item in this menu. The following window will appear.
+At the first time it will be empty, but later it will contain information about scheduled reports.
+
+Each time when you add some scheduling settings you will add lines to this list, containing information about report name, report tabs selected for export, emails which will receive messages with the exported report, frequency and time settings.
+From here you can edit any line by clicking pencil icon, delete it (trashbin icon) or add another one schedule.
+Click the “Schedule export” button to create a new mailing. The following menu will appear:
+
+It allows you to:
+	•	Select mailing frequency (every day, every week or every month)
+	•	Select timing:
+	•	time and timezone for daily mode
+	•	day of the week, time and timezone for weekly
+	•	date (e.g. the 1st of each month), time and timezone for monthly
+	•	Select report tabs for export (this item opens a dropdown list with all tabs which can be enabled by clicking checkboxes)
+	•	Add addressee’s name and email (to do this fill both fields and click “plus” sign)
+	•	Delete an addressee by clicking a trashbin icon near the end of the line (if you have added at least one before)
+	•	Fill email subject and some accompanying text (message)
+Click the “Save schedule” button at the bottom right corner to confirm your changes.
+That’s it! A message and a PDF with your report will be delivered when the time comes

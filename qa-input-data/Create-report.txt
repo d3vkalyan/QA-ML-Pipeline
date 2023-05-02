@@ -1,0 +1,15 @@
+IMPORTANT: report creation is available only after data extraction. First you need to extract data, and then you can generate a report based on the data you have extracted.  Select the Reports item in the menu. You should now be at your reports dashboard. This is where all of your reports will live but will be empty for now until your first report is generated.
+To create your first report and all subsequent ones, click the Generate a report button in the upper right corner.
+
+This will bring up the report creation menu, which by default contains two fields:
+	•	Report name
+	•	Report access
+Type the name of a new report (this is the only field which is strictly required). Website/app/page/client as the prompt says, can serve as the name of the report, but do not limit the list of possible names.
+The second line allows you to manage report access:
+	•	Full access reports are available for the whole team
+	•	Custom access report at the beginning will be available only for you and you will be able to set up user permissions later
+
+An additional field allows you to apply a template when creating a report, it appears if you have created at least one template.
+
+Upon saving, you will see your very first (or one more) report in your reports dashboard! Now you can add widgets to visualize your data. Click on the report and start building it!  There is also an alternative way to generate a new report:
+	•	You can create a report by selecting the Reporting option on the Visualizations page.

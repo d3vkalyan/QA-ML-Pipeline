@@ -1,0 +1,33 @@
+Learn how to use different types of widgets.
+
+Table:
+How to create and customize Table widget.
+
+
+Line/Column Chart:
+Make a chart to your marketing data report with Improvado ETL tools.
+
+
+
+Pie chart:
+How to create pie charts to your data report with the Pie Chart widget.
+
+
+File upload:
+How to upload files, images to your marketing report.
+
+
+iFrame:
+The IFrame widget allows you to put a link to other web resources, so you can use iFrame to show public information from other web pages in our UI.
+
+
+Stats summary:
+How to show a short summary of your metrics with the stats summary widget.
+
+You can add text descriptions, valuable notes, and even images using the Comment widget.
+
+
+Widget 2.0 Key Functions:
+Learn how to use Widget 2.0 visualization capabilities.
+
+

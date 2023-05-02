@@ -1,0 +1,13 @@
+Learn how to share your report in Improvado reporting
+
+PDF export
+You can export your report as a PDF-file
+
+
+Sharing report with private link
+One more way to share your report is to generate a private link and send it to your addressee
+
+
+Sharing specific report with view access
+Learn how to share any specific report using the email address
+

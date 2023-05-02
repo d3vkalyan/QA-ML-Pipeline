@@ -1,0 +1,23 @@
+Set up data extraction
+Step 1 Select accounts
+Step 2 Choose extraction templates
+	•	Extraction template is a feature that allows you to simplify the data extraction process by using the predefined set of metrics/dimensions and the most common settings for them.
+Step 3 Configure extraction template
+	•	Scheduling settings, such as extraction time, time zone, lookback window
+	•	Set of dimensions and metrics
+Step 4 Check the result.
+Load your data
+Connect the necessary destination
+We have more than 15 options (Clickhouse, Azure Blob Storage, Snowflake, AWS S3)
+Here you can find information about all the available data warehouses (move to the Data Warehouses tab).
+ 
+Set up data load
+Step 1 Choose your data
+	•	Select the required data tables for upload
+Step 2 Configure load settings
+	•	Load time
+	•	Load entire historical data
+	•	Data object name on the destination
+Step 3 Check the result.
+‍
+We highly recommend going through these simple steps before the Kick-off Call. That way, during the call, we can answer all your questions a

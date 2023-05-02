@@ -1,0 +1,2 @@
+Improvado Data Dictionary
+Here is an extensive overview of the full list of all common report types by data sources. This list includes such fields as metrics, properties, dimensions, etc. There are also many custom reports we don’t share here. Talk to our experts to get more details on it.

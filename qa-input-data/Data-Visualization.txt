@@ -1,0 +1,16 @@
+Data visualization
+Learn how to visualize data in Improvado reporting, configure and create reports setup connection with third-party visualization platforms
+Improvado reporting
+Learn how to visualize your data in Improvado reporting platform, configure and create reports
+
+
+Sharing a report
+Learn how to share your report in Improvado reportin
+
+Visualization platforms
+Learn how to connect your data to visualization platforms
+
+
+Widget types
+Learn how to use different types of widgets
+

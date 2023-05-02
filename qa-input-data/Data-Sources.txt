@@ -1,0 +1,382 @@
+Data sources
+Learn which data sources you can set up in Improvado
+Google Ads
+Learn how to set up Google Ads connection
+
+ 
+ 
+Google Display & Video 360
+Learn how to set up Google Display & Video 360 connection
+
+ 
+ 
+Google Search Console
+Learn how to set up Google Search Console connection
+
+ 
+ 
+Google Universal Analytics
+Learn how to set up Google Universal Analytics connection
+
+ 
+ 
+HubSpot
+Learn how to set up HubSpot connection
+
+ 
+ 
+Amazon Advertising
+Learn how to set up Amazon Advertising connection
+
+ 
+ 
+Bing Ads (Microsoft Advertising)
+Learn how to set up Bing (Microsoft Advertising) connection
+
+ 
+ 
+Facebook Pages
+Learn how to set up Facebook Pages connection
+
+ 
+ 
+Facebook Ads
+Learn how to set up Facebook Ads connection
+
+ 
+ 
+Instagram Organic
+Learn how to set up Instagram Organic connection
+
+ 
+ 
+Instagram Stories and Mentions
+Learn how to set up Instagram Stories and Mentions connection
+
+ 
+ 
+LinkedIn Ads
+Learn how to set up LinkedIn Ads connection
+
+ 
+ 
+LinkedIn Organic
+Learn how to set up LinkedIn Organic connection
+
+ 
+ 
+Pinterest Ads
+Learn how to set up Pinterest Ads connection
+
+ 
+  
+Shopify
+Learn how to set up ‍Shopify connection
+
+ 
+  
+Snapchat Ads
+Learn how to set up ‍Snapchat Ads connection
+
+ 
+ 
+TikTok Ads
+Learn how to set up ‍TikTok Ads connection
+
+ 
+ 
+Twitter
+Learn how to set up ‍Twitter connection
+
+ 
+ 
+Youtube Organic
+Learn how to set up ‍Youtube Organic connection
+
+ 
+ 
+Google Ad Manager
+Learn how to set up ‍Google Ad Manager connection
+
+ 
+ 
+Google My Business
+Learn how to set up ‍Google My Business connection
+
+ 
+ 
+Google Search Ads 360
+Learn how to set up ‍Google Search Ads 360 connection
+
+ 
+ 
+Google Campaign Manager
+Learn how to set up ‍Google Campaign Manager connection
+
+ 
+ 
+Marketing Cloud Account Engagement (Pardot API)
+Learn how to set up ‍Marketing Cloud Account Engagement (Pardot API) connection
+
+ 
+ 
+Everflow Affiliate API
+Learn how to set up ‍Everflow Affiliate API connection
+
+ 
+ 
+NetBase
+Learn how to set up ‍NetBase connection
+
+ 
+ 
+Apple Search Ads
+Learn how to set up Apple Search Ads connection
+
+ 
+ 
+Criteo
+Learn how to set up ‍Criteo connection
+
+ 
+ 
+Teads API
+Learn how to set up ‍Teads API connection
+
+ 
+ 
+Tableau
+Learn how to set up ‍Tableau connection
+
+ 
+ 
+Snapchat Organic
+Learn how to set up ‍Snapchat Organic connection
+
+ 
+ 
+Yext
+Learn how to set up ‍Yext connection
+
+ 
+ 
+Salesforce Marketing Cloud
+Learn how to set up ‍Salesforce Marketing Cloud connection
+
+ 
+ 
+Adobe Analytics
+Learn how to set up ‍Adobe Analytics connection
+
+ 
+ 
+Meltwater
+Learn how to set up ‍Meltwater connection
+
+ 
+ 
+data.ai Intelligence
+Learn how to set up ‍data.ai Intelligence connection
+
+ 
+ 
+illumin
+Learn how to set up ‍illumin connection
+
+ 
+ 
+Remerge
+Learn how to set up ‍Remerge connection
+
+ 
+ 
+AdRoll
+Learn how to set up AdRoll connection
+
+ 
+ 
+Adform
+Learn how to set up Adform connection
+
+ 
+ 
+Salesforce
+Learn how to set up Salesforce connection
+
+ 
+ 
+AppsFlyer
+Learn how to set up AppsFlyer connection
+
+ 
+ 
+Microsoft Dynamics 365
+Learn how to set up Microsoft Dynamics 365 connection
+
+ 
+ 
+Dotdigital
+Learn how to set up ‍Dotdigital connection
+
+ 
+ 
+The Trade Desk API
+Learn how to set up ‍The Trade Desk API connection
+
+ 
+ 
+Sticky.io
+Learn how to set up ‍Sticky.io connection
+
+ 
+ 
+Yahoo Gemini
+Learn how to set up ‍Yahoo Gemini connection
+
+ 
+ 
+Adjust API
+Learn how to set up ‍Adjust API connection
+
+ 
+ 
+MailChimp
+Learn how to set up MailChimp connection
+
+ 
+ 
+Marketo
+Learn how to set up ‍Marketo connection
+
+ 
+ 
+StackAdapt
+Learn how to set up ‍StackAdapt connection
+
+ 
+ 
+Yahoo DSP
+Learn how to set up ‍Yahoo DSP connection
+
+ 
+ 
+SEMrush
+Learn how to set up ‍SEMrush connection
+
+ 
+ 
+Taboola
+Learn how to set up ‍Taboola connection
+
+ 
+ 
+Klaviyo
+Learn how to set up ‍Klaviyo connection
+
+ 
+ 
+Quora Ads
+Learn how to set up ‍Quora Ads connection
+
+ 
+ 
+Skai (Kenshoo UI Reports)
+Learn how to set up ‍Skai (Kenshoo) connection
+
+ 
+ 
+Skai API (Kenshoo V3 API)
+Learn how to set up ‍Skai API (Kenshoo V3 API) connection
+
+ 
+ 
+Mountain
+Learn how to set up ‍Mountain connection
+
+ 
+ 
+IQM
+Learn how to set up ‍IQM connection
+
+ 
+  
+Tubular Labs
+Learn how to set up ‍Tubular Labs connection
+
+ 
+ 
+Sharepoint
+Learn how to set up ‍Sharepoint connection
+
+ 
+  
+Sizmek SAS
+Learn how to set up ‍Sizmek SAS connection
+
+ 
+  
+Sizmek DSP API
+Learn how to set up ‍Sizmek DSP API connection
+
+ 
+  
+Invoca (Dialogtech)
+Learn how to set up Invoca (Dialogtech) connection
+
+ 
+  
+Pinterest Organic
+Learn how to set up ‍Pinterest Organic connection
+
+ 
+  
+Box
+Learn how to set up ‍Box connection
+
+ 
+  
+Amazon Attribution
+Learn how to set up ‍Amazon Attribution connection
+
+ 
+  
+Amazon Vendor Central
+Learn how to set up ‍Amazon Vendor Central connection
+
+ 
+  
+Fanpage Karma
+Learn how to set up ‍Fanpage Karma connection
+
+ 
+  
+Xandr
+Learn how to set up ‍Xandr connection
+
+ 
+  
+Amazon Advertising DSP
+Learn how to set up ‍Amazon Advertising DSP connection
+
+ 
+  
+GRIN
+Learn how to set up ‍GRIN connection
+
+ 
+  
+Impact Radius
+Learn how to set up ‍Impact Radius connection
+
+ 
+  
+iSpot
+Learn how to set up ‍iSpot connection
+
+ 
+ 
+Oracle NetSuite
+Learn how to set up ‍Oracle NetSuite connection
+
+
+

@@ -1,0 +1,19 @@
+Table widget is one of four widget types you can use to present data in widget 2.0.
+
+Initially you need to select the metrics from the list on the left.
+You can edit the way how metrics are presented in widget. For each selected column you have a Config button. After clicking it you will see the Title (turn this on to open an input field and write any custom name you want to see in the table instead of variable name).
+Now let's look at the other table customization settings.
+1. You can always change source data table for your widget 2.0 to other data source with the same data schema.
+2. You can rename your widget using the Widget name field in the left part of the Widget Customization menu.
+3. You can choose a time range:
+	•	Report time range
+	•	Custom time range
+	•	Lifetime
+4. You can set the view settings:
+	•	Page limit
+	•	Summary line allows you to toggle on or off row with aggregated data (e.g. sum or average for all platforms - type of this summary depends on metric type)
+	•	Transpose option allows you to turn columns into rows and rows into columns.
+	•	Filters/Grouping - you have to choose between the Filtration or Grouping options.
+IMPORTANT: in fact, you can have filters inside your groups, if the Grouping option is selected.
+You can add new groups by clicking new group option on top, typing the new group name in the input field and setting up filters for each one.
+There are red cross icons near the group name and at the end of each filter added, which allows for deleting unnecessary or misplaced groups and filters.

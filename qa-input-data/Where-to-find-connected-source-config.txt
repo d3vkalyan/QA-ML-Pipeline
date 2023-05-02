@@ -1,0 +1,25 @@
+Where to Find Your Connected Source Configuration
+Choose the required connection from the connected sources list to dive into its settings and see the related extraction orders list.
+ 
+Here you see a Page header and two tabs:
+	•	Overview (opens by default)
+	•	Settings
+Page header
+The Page header shows brief details about the connected data source, business account, and your credentials validity status.
+ 
+You can set up data extraction only for an active connection with at least one connected account by clicking on the Extract button on the top right corner of this page. In other cases, this button will be non-clickable.
+If you have any questions about how to create an extraction order, please check out this instruction.
+Overview tab
+This tab shows you the list of extraction orders for the current connection. You can read more about it here.
+ 
+Settings tab
+ 
+Authentication/authorization type
+This section shows what is used to pull data from your account into Improvado Data warehouse:
+	•	OAuth
+	•	Login and password authentication
+The business account and business account ID you used for this connection are listed below.
+You can click the Re-authorise button to edit the connection credentials. This button is clickable only in case of any issues (when connection status is Error);
+Delete connection
+Deleting a connection will stop extracting data for this connection immediately. You will delete our reference to this connection, but it will not affect the data.
+Please note that you can not undo this change!
